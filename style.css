@@ -1,0 +1,58 @@
+.dropdown-menu li a {
+    text-shadow: 1px 1px 0px rgb(218, 159, 92);
+    
+}
+
+.fixedimg{
+    background-attachment: fixed;
+    background-size: cover;
+    height: 50vh;
+}
+
+.fixedimg1{
+    background-image: url(imges/IMG-20230210-WA0107.jpg);
+}
+
+.esraa{
+    background-attachment: fixed;
+    background-size: cover;
+    height: 50vh;
+}
+
+.esraa1{
+    background-image: url(imges/IMG-20230210-WA0116.jpg);
+}
+
+
+
+/*///////////////////////////// Footer /////////////////////////*/
+ .btn.btn-link {
+    display: block;
+    margin-bottom: 5px;
+    padding: 0;
+    text-align: left;
+    margin-left: 20px;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: .3s;
+    color: white;
+    
+    
+}
+
+ .btn.btn-link::before {
+    position: relative;
+    margin-right: 10px;
+    font-weight: 900;
+}
+
+
+
+
+
+ .btn.btn-link:hover{
+    color: rgb(233, 137, 20);
+    letter-spacing: 1px;
+ }
+
+
